@@ -1,0 +1,25 @@
+My humble set of solutions to selected project euler problems. If you do not know what project euler is, check out projecteuler.net.
+
+There are two helpful scripts included: util.py and problems/solutions.py
+
+
+util.py
+
+The usage for util.py is simple:
+
+    util.py gen filename.py 43
+
+This command creates a file "filename.py" and copies the description of the 43rd problem into a docstring in filename.py.
+
+problems/solutions.py
+
+problems/solutions.py is a driver script for each one of the solutions. Usage:
+
+solutions.py n
+
+Will run the solution to the nth problem. 
+
+
+Contact
+
+itchyporcupine@gmail.com
